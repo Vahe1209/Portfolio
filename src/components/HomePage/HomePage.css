@@ -1,0 +1,25 @@
+.main {
+  cursor: url("../../assets/cursor.png") 39 39, auto;
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  overflow: hidden;
+  background-color: black;
+}
+
+.myVideo {
+  position: absolute;
+  opacity: 0.2;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.greetings {
+  font-size: 100px;
+  color: white;
+}
+
+.toAboutPage {
+  font-size: 100px;
+  color: white;
+}
